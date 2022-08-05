@@ -8,7 +8,7 @@ I am junior backend developer  with basic knowledge in node js and express js .
 
 - I love learning about software  engineering 👨🏻‍💻
 
-- I'm learning node js and express 🧠
+- I'm learning Dart and flutter 🧠
 
 ### Skills 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
